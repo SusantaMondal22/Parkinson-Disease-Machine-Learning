@@ -15,7 +15,7 @@ Step1: Predict if a person is having Parkinson's or Not
 ===========================================================
 The first part of the research is an attempt to prove that use different features(jitter, shimmer) of vocal data from a patient can help diagnose whether or not they suffer from Parkinson’s. As such, it is initially assumed that there is a relationship between the two. Our aim will be to run various machine learning classifiers (Ex. Naïve Bayes, SVM, etc.) on the data in hopes to reach a high predictability rate that is matched with a reasonable runtime. 
 
-Step 2:  Use ensble techiques to create a model give high accuracy 
+Step 2:  Use ensemble techiques to create a model give high accuracy 
 ===================================================================
 
 This portion is under development.
