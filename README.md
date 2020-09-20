@@ -1,5 +1,5 @@
 Parkinson-Disease-Machine-Learning
-This open source project is for using machine learning for detection and treatment of Parkinson disease
+This open source project is for using machine learning for detection and treatment of Parkinson disease and has been presented in Hack the Midlands (2019)
 
 
 Back ground of the Research
